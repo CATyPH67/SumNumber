@@ -15,8 +15,8 @@ public class Main {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
-        System.out.print("Введите целое неотрицательное число: ");
+        System.out.print("Enter number: ");
         int num = scan.nextInt();
-        System.out.printf("Сумма 3-х последних цифр: %d", sumNum(num));
+        System.out.printf("Sum of the last 3 digits: %d", sumNum(num));
     }
 }
