@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Main {
 
-    public static int sumNum (int num) {
+    private static int sumNum (int num) {
         int sum = 0;
         for(int i = 1; i < 4; i++) {
             sum += num % 10;
