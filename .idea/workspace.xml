@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f84809a9-3235-44c1-9efa-c6b13495ebed" name="Default Changelist" comment="полные именa">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f84809a9-3235-44c1-9efa-c6b13495ebed" name="Default Changelist" comment="полные именa" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -104,10 +102,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="505" y="171" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1600860771917" />
-    <state x="516" y="271" key="Vcs.Push.Dialog.v2" timestamp="1600858128210">
+    <state x="516" y="271" key="Vcs.Push.Dialog.v2" timestamp="1600860874726">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="516" y="271" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600858128210" />
+    <state x="516" y="271" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600860874726" />
     <state x="636" y="334" width="700" height="530" key="recent.locations.popup" timestamp="1600189541710">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
