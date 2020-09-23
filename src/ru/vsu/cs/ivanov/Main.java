@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Main
 {
+
     public static void main(String[] args)
     {
         Scanner scanner = new Scanner(System.in);
@@ -14,12 +15,13 @@ public class Main
 
     private static int sumNumber (int number)
     {
-    int sum = 0;
-    for(int i = 1; i < 4; i++)
-    {
-        sum += number % 10;
-        number /= 10;
+        int sum = 0;
+        for(int i = 1; i < 4; i++)
+        {
+            sum += number % 10;
+            number /= 10;
+        }
+        return sum;
     }
-    return sum;
-    }
+
 }
