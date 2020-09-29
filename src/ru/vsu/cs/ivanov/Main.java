@@ -7,8 +7,7 @@ public class Main
 
     public static void main(String[] args)
     {
-        int number = inputNumber();
-        conclusionSumNumber(number);
+        conclusionSumNumber(inputNumber());
     }
 
     private static int inputNumber  ()
