@@ -2,9 +2,7 @@ package ru.vsu.cs.ivanov;
 
 import java.util.Scanner;
 
-public class Main
-{
-
+public class Main {
     public static void main (String[] args) {
         conclusionSumNumber(inputNumber());
     }
@@ -27,5 +25,4 @@ public class Main
         }
         return sum;
     }
-
 }
